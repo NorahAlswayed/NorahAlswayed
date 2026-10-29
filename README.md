@@ -10,8 +10,7 @@ I'm looking for Data Analyst, BI Analyst, and AI/Data Associate roles in the Sau
 
 - 🤖 **Muqaddim**: AI platform for entrepreneurs (graduation project). Built with GPT-4o, Flask, React/TypeScript, and Firebase.
 - 📊 **[Saudi Rental Market Dashboard](https://github.com/NorahAlswayed/saudi-rental-market-powerbi)**: Interactive Power BI dashboard analyzing 3,700+ residential rental listings across Saudi cities, with price KPIs and neighborhood comparisons (built with DAX).
-- 🏨 **Hotel Booking Cancellation Prediction**: Machine learning project in Python.
-
+- 📊 **[Telco Customer Churn Analysis](https://github.com/NorahAlswayed/telco-customer-churn-analysis)**: Exploratory data analysis using Python, Pandas, and Matplotlib to identify customer churn patterns and provide business insights.  
 ## Skills
 
 **Data & BI:** Power BI, DAX, SQL, Python
