@@ -3,7 +3,6 @@
 IT graduate (Software Engineering track) from King Abdulaziz University, Jeddah, Saudi Arabia, with First Class Honors (GPA 4.9/5).
 I'm looking for Data Analyst, BI Analyst, and AI/Data Associate roles in the Saudi market.
 
-🌐 Portfolio: [norahalswayed.github.io](https://norahalswayed.github.io)
 💼 LinkedIn: www.linkedin.com/in/norahalswayed
 
 ## Featured projects
